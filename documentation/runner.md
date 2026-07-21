@@ -46,6 +46,14 @@ The platform will ask what you want to name it, generate a registration code, an
 
 {% tab title="Linux" %}
 ```bash
+curl -fsSL https://workflowfiesta.com/install-cli | bash
+```
+
+Then follow the prompt to paste your registration code.
+
+Alternatively, download the binary directly:
+
+```bash
 curl -L https://github.com/ss-libs/workflowfiesta-runner/releases/latest/download/workflowfiesta-runner-linux-amd64 -o wf-runner
 chmod +x wf-runner
 ./wf-runner --code YOUR_REGISTRATION_CODE
