@@ -16,6 +16,7 @@
 * [Custom Commands](documentation/custom-commands.md)
 * [Models & Providers](documentation/models.md)
 * [Runner](documentation/runner.md)
+* [CLI](documentation/cli.md)
 
 ## GUIDES
 
