@@ -17,6 +17,10 @@
 * [Models & Providers](documentation/models.md)
 * [Runner](documentation/runner.md)
 * [CLI](documentation/cli.md)
+  * [Installation](documentation/cli/installation.md)
+  * [Configuration](documentation/cli/configuration.md)
+  * [Commands](documentation/cli/commands.md)
+  * [Agent Interactions](documentation/cli/agent-interactions.md)
 
 ## GUIDES
 
